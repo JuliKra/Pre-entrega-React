@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background-color: #f8f9fa;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.bottoncito {
+  background-color:#C133C1;
+  color: white;
+  border: none;
+}
+
+.bottoncito:hover {
+  background-color:#2e2e2e;
+  color: white;
+}
